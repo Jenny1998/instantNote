@@ -1,1 +1,1 @@
-# instantNote
+# CS6456Project
